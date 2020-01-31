@@ -1,3 +1,9 @@
 #HEADERLINKS a {
   color: #ffffff;
 }
+#HEADERLINKS a:hover {
+  text-decoration: underline;
+}
+nav .btn {
+  color: #ffffff;
+}
