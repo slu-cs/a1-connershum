@@ -1,9 +1,20 @@
 #HEADERLINKS a {
   color: #ffffff;
 }
+
 #HEADERLINKS a:hover {
   text-decoration: underline;
 }
+
 nav .btn {
   color: #ffffff;
+}
+
+#INFO * {
+  font-size: small;
+}
+
+.TOWNNAME {
+  text-decoration: underline;
+  padding-top: 15px;
 }
